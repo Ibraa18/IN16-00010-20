@@ -1,0 +1,156 @@
+
+<html> 
+    <head > <style></style>
+        <title>
+            volleyball
+        </title>
+        <link rel="stylesheet" href="">
+    </head >
+    <body style="color: magenta;" > 
+        <h1 style="color: blue;">
+            "IBRAA VOLLEYBALL ACADEMY">IBRAAVOLLEYBALL ACADEMEY        </h1>
+            <header>
+                <meta charset="UTF-8">
+                <Meta http-equiv="X-UA-compatible" content="IE=edge">
+                    <meta name="viewport"content="width=device width,initial-scale=1.0">
+                    <title>log in</title>
+                    <link rel="stylesheet" href="login.css">
+        
+            </head>
+            <body>
+                <div class="cloe">
+        
+                <div>
+                <img src=".logo.jpg" alt="">
+                <p> <labelfor="email"</label></p>
+                <p> <input type="email" placeholder="enter your email" 
+                " required"></p>
+                <p> <label for="password"></label></p>
+                <p> <input type="password" placeholder="password" required></p>
+                <p> <button > log in</button></p>
+                <p> 
+                    <input type="radio" >
+                    <label >" Remember me"></label>
+        
+                </p>
+                <p> 
+                    <label for=">Forgot your password"></label>
+                    <label for=""> <a href="click here" to reset </label>
+                    
+        
+        
+                    
+                </p>
+                <p>
+                    <label for=">Not a member?"></label>
+                    <label for=""> <a href="register.html">Click here</a>to register</label>
+        
+                </p>
+                </div>
+                </div>
+            </body> 
+        
+                <nav>
+                    <ul>
+                        <a href="#">volleyball</a>
+                    </ul>
+                    <ul class="nav item">
+                        <select name="gender">
+                            <option value="types"position>/option>
+                                <option value="male"setter>setter</option>
+                                <option value="female"attacker>atacker</option>
+                                <option value="male"libero>libero</option>
+                                <option value="other"universal>universal</option>
+                            </select>
+                    </ul>
+                    <ul>
+                        <button>select</button>
+                    </ul>
+
+                    </ul>
+                </nav>
+            </header>
+            <main>
+                <section>
+                    <h1>setter</h1>
+                    <img src="brunosetter.jpg" alt="">
+                    <p style="color: brown;">
+                        setting is a basic  part of playing vollleyball.setting is a second play of passing and it can be done to either dump the ball over into an undefended sport to set into a position  which allows attacker to spike the ball
+                    </p>
+
+                </section>
+                <section>
+                    <h1>Attacker</h1>
+                    <img src="smart1.jpg" alt="">
+                    <p style="color: aqua;">
+                        Attacking is the action of hitting the ball  towards the oponents court  during a rally .they are various types ifvattacks from the ball one upto ten and some  modification of attacks eg ball 15
+                    </p>
+                    
+                </section>
+                <section>
+                    <h1>libero</h1>
+                    <img src="liberal1.jpg" alt="">
+                    <p style="color: tomato;"> he or she does not attack the ball.He  receives the ball and controlls the backcourt defence.</p>
+
+                </section>
+                <section>
+                    <h1>kenya <setter ></setter></h1>
+                    <img src="attacker .jpg" alt="">
+                    <p style="color:violet;"> 
+                        universal player plays more than two positions  eg libero and attacker
+
+                    </p>
+                </section>
+                <p> These are the main positions of volleyball.</p>
+            </main>
+    </body>
+
+
+
+
+
+
+
+
+    <body style="color: purple;">
+        
+        <header> THE BASICS OF VOLLLEYBALL</header>
+        <p> We have five basicS in playing volleyball.They are  the core basics in volleyball.   </p>
+        <header> Service</header>
+        <p>  Service is the fisrt form of attack.It is one of the basics of volleyball .There are different forms of services ,the common are  float service ,jump service .windmill,roundhorse . some modifications have been made on services which  has resulted   to  other services eg. jumpfloat  . The searver has eight  seconds to be able to searve the ball the opponent court . </p>
+        <header> Reception</header>
+        <img src="receiver.jpg" alt="" >
+        <p> It is commly the second action after service .It mostly carried by receiver or libero.The reception is directed to the setter.</p>
+        <header>Setting</header>
+        <img src="kenya setter .jpg" alt="" srcset="">
+        <p> 
+            It is an acion carried by the setter .The  setter is the one to decide which ball to set to his or her attackers as planned by him or her.The setter should be sharp to think so as to confuse the opponent blocker
+        </p>
+        <header> Attacking </header>
+        <img src="attacker 2.jpg" alt="" srcset="">
+        
+        <p>
+
+            
+             The action is carried by the attacker .he or she is supposed to spike or attack the ball to the oponent court and over the net.There are different types of attackers , one is lef attackers ,centers and right attackers . The setter is supposed to set the ball where the attacker is able to attack the ball.
+             </p>
+           <header> Blocking</header> 
+           <img src="blocker .jpg" alt="" srcset="">
+           <p>It is one of the part of diffence mechanism.It is carried by the blocker .He or she is supposed to block the ball   and protect the ball to enter in their court </p>
+
+
+        
+    </body>
+    <body>
+        <header style="color: black;">VOLLEYBALL COURT</head>
+            <img src="court .jpg" alt="" srcset="">
+        <h1> 
+            <p style="color: darkorange; display: ;" >
+                Volleyball court is usually 18 meters long and 9 meters wide.Top net is 2.43 meters .While playing beach volleyball the lengths  slightly change from that of a conventional court.
+
+            </p>
+        </h1>
+    </body>
+
+</html>
+
